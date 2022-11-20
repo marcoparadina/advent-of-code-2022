@@ -44,10 +44,10 @@
 </pre>
 
 ## How to upload your solutions
-
+Make a folder named like your github account inside this repository.
 In the folder with your name you should have a sub-folder for each day, named with the number of the corresponding day. In those folders you will upload your solutions.
 
-For example the foler for day 1 will be named '01' and the one for day 15 will be named '15'. 
+For example the foler for day 1 will be named ```01``` and the one for day 15 will be named ```15```. 
 
 ## How to acccess our private leaderboard
 
@@ -55,4 +55,4 @@ Access our private leaderboard through this link: https://adventofcode.com/2022/
 
 The first time you access the leaderboard:
 - Log in adventofcode.com with your github account
-- Insert this code to join the leaderboard: '1563594-a2888d0d'
+- Insert this code to join the leaderboard: ```1563594-a2888d0d```
