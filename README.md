@@ -1,4 +1,4 @@
-# [Advent of Code 2020](https://adventofcode.com/)
+# [Advent of Code 2022](https://adventofcode.com/)
 
 <pre>
 
