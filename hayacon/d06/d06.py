@@ -8,11 +8,9 @@ def duplicate(s):
             if i == j:
                 continue
             elif s[j] == chr:
-                # print('True')
                 return True
             else:
                 continue
-    # print('false')
     return False
 
 
@@ -24,9 +22,12 @@ line = f.readline()
 
 count = 13
 for i in range(len(line)):
-    # print(count)
     count += 1
     s = ''
+    # part 1
+    # for j in range(4):
+    #     s = s + line[i+j]
+    # part 2
     for j in range(14):
         s = s + line[i+j]
     print(s)
